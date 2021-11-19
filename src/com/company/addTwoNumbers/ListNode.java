@@ -1,7 +1,5 @@
-package com.company.model;
+package com.company.addTwoNumbers;
 
-
-import java.util.Objects;
 
 public class ListNode {
       public int val;
