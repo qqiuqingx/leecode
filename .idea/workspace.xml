@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/frequencySort/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/isValid/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/kthSmallestPrimeFraction/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/originalDigits/OriginalDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,26 +41,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="FrequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.frequencySort.FrequencySort" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.frequencySort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OriginalDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.originalDigits.OriginalDigits" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.originalDigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.kthSmallestPrimeFraction.Solution" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.kthSmallestPrimeFraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.searchBST.Solution" />
       <module name="leecode" />
@@ -115,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.ReformatDate" />
         <item itemvalue="Application.FrequencySort" />
-        <item itemvalue="Application.OriginalDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +130,7 @@
       <workItem from="1637759090230" duration="1811000" />
       <workItem from="1637840136809" duration="2262000" />
       <workItem from="1637928702372" duration="2166000" />
-      <workItem from="1638185829199" duration="1995000" />
+      <workItem from="1638185829199" duration="4005000" />
     </task>
     <servers />
   </component>
@@ -178,6 +172,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/isValid/Solution.java</url>
           <line>47</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/kthSmallestPrimeFraction/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
