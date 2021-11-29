@@ -44,6 +44,30 @@ public class Solution {
         return sk.get(k-1);
     }
 
+
+    public static int[] kthSmallestPrimeFraction2(int[] arr, int k) {
+
+        List<int[]> sk=new ArrayList<>();
+        for (int i = 0; i < arr.length; i++) {
+            for (int s=i+1;s<arr.length;s++){
+                sk.add(new int[]{arr[i],arr[s]});
+            }
+        }
+        sk.sort(new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                if (o1[1]==o2[1]){
+                    return o1[0]-o2[0];
+                }else {
+
+                    return o2[1]*o1[0]-o2[0]*o1[1];
+                }
+            }
+        });
+        return sk.get(k-1);
+    }
+
+
     public static void main(String[] args) {
         int[] arr=new int[]{1,2,3,5};
         List<int[]> ints = Arrays.asList(kthSmallestPrimeFraction(arr, 3));

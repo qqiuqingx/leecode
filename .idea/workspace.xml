@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/frequencySort/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/kthSmallestPrimeFraction/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/originalDigits/OriginalDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/kthSmallestPrimeFraction/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/kthSmallestPrimeFraction/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +130,8 @@
       <workItem from="1637759090230" duration="1811000" />
       <workItem from="1637840136809" duration="2262000" />
       <workItem from="1637928702372" duration="2166000" />
-      <workItem from="1638185829199" duration="4005000" />
+      <workItem from="1638185829199" duration="4309000" />
+      <workItem from="1638190514185" duration="1501000" />
     </task>
     <servers />
   </component>
@@ -175,10 +176,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/kthSmallestPrimeFraction/Solution.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="13" />
+          <line>43</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="sk.get(0)" />
+        <watch expression="sk.get(5)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leecode$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1638190807285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.kthSmallestPrimeFraction.*</FILTER>
+    </SUITE>
   </component>
 </project>
