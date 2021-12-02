@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/findNthDigit/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/findRelativeRanks/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/frequencySort/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/maxPower/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,20 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.isValid.Solution" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.isValid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.kthSmallestPrimeFraction.Solution" />
       <module name="leecode" />
@@ -107,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.findRelativeRanks.Solution" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.findRelativeRanks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,8 @@
       <workItem from="1638185829199" duration="4309000" />
       <workItem from="1638190514185" duration="1564000" />
       <workItem from="1638271930667" duration="5856000" />
-      <workItem from="1638361079006" duration="1403000" />
+      <workItem from="1638361079006" duration="1450000" />
+      <workItem from="1638448277917" duration="5183000" />
     </task>
     <servers />
   </component>
@@ -185,6 +186,16 @@
           <url>file://$PROJECT_DIR$/src/com/company/findNthDigit/Solution.java</url>
           <line>11</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/findRelativeRanks/Solution.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/findRelativeRanks/Solution.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
