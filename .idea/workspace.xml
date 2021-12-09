@@ -4,7 +4,7 @@
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/findNthDigit/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/findRelativeRanks/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/removeElement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/validTicTacToe/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,7 +137,8 @@
       <workItem from="1638448277917" duration="5244000" />
       <workItem from="1638793564789" duration="2424000" />
       <workItem from="1638885694973" duration="1342000" />
-      <workItem from="1638965321061" duration="3053000" />
+      <workItem from="1638965321061" duration="3654000" />
+      <workItem from="1639049928058" duration="1857000" />
     </task>
     <servers />
   </component>
@@ -212,7 +213,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/removeElement/Solution.java</url>
-          <line>22</line>
+          <line>24</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
