@@ -4,7 +4,7 @@
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/findNthDigit/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/findRelativeRanks/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/validTicTacToe/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/toLowerCase/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.truncateSentence.Solution" />
       <module name="leecode" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.findRelativeRanks.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.toLowerCase.Solution" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.findRelativeRanks.*" />
+          <option name="PATTERN" value="com.company.toLowerCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,8 @@
       <workItem from="1638793564789" duration="2424000" />
       <workItem from="1638885694973" duration="1342000" />
       <workItem from="1638965321061" duration="3654000" />
-      <workItem from="1639049928058" duration="1857000" />
+      <workItem from="1639049928058" duration="2312000" />
+      <workItem from="1639306011318" duration="1714000" />
     </task>
     <servers />
   </component>
@@ -215,6 +216,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/removeElement/Solution.java</url>
           <line>24</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/toLowerCase/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
