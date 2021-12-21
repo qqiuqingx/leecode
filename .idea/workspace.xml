@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/dayOfYear/dayOfYear.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/findNthDigit/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/findRadius/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/findRelativeRanks/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.dayOfYear">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.maxSubArray.Solution" />
       <module name="leecode" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.strStr.Solution" />
+    <configuration name="dayOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dayOfYear.dayOfYear" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.strStr.*" />
+          <option name="PATTERN" value="com.company.dayOfYear.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dayOfYear" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,8 @@
       <workItem from="1639396509135" duration="1985000" />
       <workItem from="1639484019253" duration="1502000" />
       <workItem from="1639655387334" duration="2899000" />
-      <workItem from="1640001162196" duration="1343000" />
+      <workItem from="1640001162196" duration="1448000" />
+      <workItem from="1640087069692" duration="2325000" />
     </task>
     <servers />
   </component>
