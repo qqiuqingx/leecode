@@ -4,8 +4,9 @@
     <list default="true" id="fec3fbab-57b2-4e46-974d-f4836d576aec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/dayOfYear/dayOfYear.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/findNthDigit/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hasCycle/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/hasCycle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/isSymmetric/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/isSymmetric/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/longestPalindrome/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +31,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.isSymmetric" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -42,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.hasCycle.Solution" />
       <module name="leecode" />
@@ -56,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.maxLengthBetweenEqualCharacters.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.isSymmetric.Solution" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.maxLengthBetweenEqualCharacters.*" />
+          <option name="PATTERN" value="com.company.isSymmetric.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.dayOfYear" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +153,9 @@
       <workItem from="1640001162196" duration="1448000" />
       <workItem from="1640087069692" duration="2426000" />
       <workItem from="1640172519679" duration="2521000" />
-      <workItem from="1640263207620" duration="1642000" />
+      <workItem from="1640263207620" duration="1840000" />
+      <workItem from="1640590698836" duration="2316000" />
+      <workItem from="1640696210591" duration="3498000" />
     </task>
     <servers />
   </component>
